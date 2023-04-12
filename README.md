@@ -7,13 +7,13 @@
 ## Sobre o projeto
 Projeto de uma galeria de imagens de pets utilizando os conhecimentos dos estudos do css flexbox.
 
-## 📌 screenshots
+## 📌 Screenshots
 ![Screenshot](https://user-images.githubusercontent.com/81397233/231325203-a4956c9b-e8b6-49bd-88ff-d06ec3dac97d.png)
 
 ## Tecnologias utilizadas
 ### Front end
-- HTML  
-- CSS 
+- HTML5  
+- CSS3
 - VsCode
 
 ## Autor
